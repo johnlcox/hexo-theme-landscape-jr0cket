@@ -1,12 +1,7 @@
 # Header
 menu:
   Home: /
-  DevGuides: http://jr0cket.co.uk/developer-guides
-  Slides:    http://jr0cket.co.uk/slides
-  Workshops: /workshops
-  Clojure: /clojure
-  Hexo: /hexo
-  Ubuntu: http://ubuntu.jr0cket.co.uk
+  Archives: /archives
 rss: /atom.xml
 
 # Content
@@ -17,15 +12,15 @@ fancybox: true
 sidebar: right
 widgets:
 - recent_posts
-- category
+- tag
 - tagcloud
-
-
+- archive
 
 # Miscellaneous
-google_analytics: UA-28030709-2
+google_analytics: UA-36983897-3
+gauges_analytics:
 favicon: /favicon.png
-twitter: jr0cket 
+twitter: johnlcox
 google_plus:
 fb_admins:
 fb_app_id:
